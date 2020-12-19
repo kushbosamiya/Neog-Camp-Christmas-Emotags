@@ -68,7 +68,7 @@ export default function App() {
       <header>
         {" "}
         <h1 id="header">
-          Christmas <span>Emoji</span>
+          Christmas <span>Emotags</span>
         </h1>
       </header>
 
